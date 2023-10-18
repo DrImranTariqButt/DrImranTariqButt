@@ -1,4 +1,4 @@
-![logo](https://github.com/DrImranTariqButt/DrImranTariqButt/blob/main/Blue%20Geometric%20Business%20Facebook%20Cover%20%5Bphotoutils.com%5D.png)
+![logo](https://github.com/DrImranTariqButt/DrImranTariqButt/blob/main/Final%20Banner.png)
 <h1 align="center">Hi 👋, I'm Dr. Muhammad Imran Tariq</h1>
 <h3 align="center">A Machine Learning and Deep Learning Expert from Pakistan</h3>
 
