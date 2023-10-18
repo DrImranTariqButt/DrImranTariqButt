@@ -1,4 +1,4 @@
-![logo](https://github.com/DrImranTariqButt/DrImranTariqButt/blob/main/GitHub%20Banner.png)
+![logo](https://github.com/DrImranTariqButt/DrImranTariqButt/blob/main/GitHub%20Banner2.png)
 <h1 align="center">Hi 👋, I'm Dr. Muhammad Imran Tariq</h1>
 <h3 align="center">A Machine Learning and Deep Learning Expert from Pakistan</h3>
 
